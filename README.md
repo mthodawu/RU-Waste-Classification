@@ -6,4 +6,6 @@ Waste management poses a significant global challenge, with 90% of South Africa'
 
 The study is grounded in a positivist paradigm, employing empirical evidence to train and evaluate machine learning models. Binary and multi-class classification tasks are performed, highlighting the performance of CNNs in distinguishing waste types. While binary classification demonstrates high accuracy for specific materials, multi-class classification reflects real-world complexities in sorting mixed waste streams. Though limited in its effectiveness for class imbalance, data augmentation points to potential improvements through oversampling techniques. Ultimately, this research contributes to the development of automated waste sorting systems, enhancing recycling efficiency and reducing the environmental footprint of waste disposal.
 
-The TrashNet dataset used in this code is generously made available by [Gary Thung](https://github.com/garythung/) and [Mindy Yang](http://github.com/yangmindy4) can be downloaded from [here](https://github.com/garythung/trashnet).
+#### The TrashNet dataset used in this code is generously made available by [Gary Thung](https://github.com/garythung/) and [Mindy Yang](http://github.com/yangmindy4) can be downloaded from [here](https://github.com/garythung/trashnet).
+
+#### Explore the research findings [here](https://sites.google.com/rucis.co.za/21s5614/home)
